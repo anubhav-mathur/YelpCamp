@@ -1,0 +1,17 @@
+body{
+			background: url(https://onmilwaukee.com/images/articles/ca/camping/camping_fullsize_story1.jpg?20080730123152);
+			background-position: center;
+			background-size: cover;
+			color:white;
+			font-family: lato;
+		}
+		html{
+			height: 100%;
+		}
+		h1{
+			font-size: 5em;
+
+		}
+		hr{
+			width: 40%;
+		}
